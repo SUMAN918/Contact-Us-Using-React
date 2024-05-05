@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/SUMAN918.github.io/Contact-Us-Using-React/static/css/main.ee9a26c0.css",
+    "main.js": "/SUMAN918.github.io/Contact-Us-Using-React/static/js/main.5e7b9010.js",
+    "index.html": "/SUMAN918.github.io/Contact-Us-Using-React/index.html",
+    "main.ee9a26c0.css.map": "/SUMAN918.github.io/Contact-Us-Using-React/static/css/main.ee9a26c0.css.map",
+    "main.5e7b9010.js.map": "/SUMAN918.github.io/Contact-Us-Using-React/static/js/main.5e7b9010.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ee9a26c0.css",
+    "static/js/main.5e7b9010.js"
+  ]
+}
